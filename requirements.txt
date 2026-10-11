@@ -1,0 +1,10 @@
+# Python 3.10+
+gymnasium>=0.29
+stable-baselines3>=2.0
+numpy
+pandas
+matplotlib
+seaborn
+jupyter
+# optional: Japanese labels in plots (used in 02_sensitivity_analysis.ipynb)
+japanize-matplotlib
